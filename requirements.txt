@@ -4,3 +4,4 @@ pandas
 plotly
 openpyxl
 xlsxwriter
+streamlit-aggrid
